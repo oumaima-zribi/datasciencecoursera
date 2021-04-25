@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619367750347.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2027355818",
+    "id" : "B604A483",
+    "lastKnownWriteTime" : 1619367861,
+    "last_content_update" : 1619367862213,
+    "path" : "C:/Users/oumaima/Desktop/datasciencecoursera/mark.Rmd",
+    "project_path" : "mark.Rmd",
+    "properties" : {
+        "cursorPosition" : "9,26",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
